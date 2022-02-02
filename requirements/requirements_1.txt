@@ -1,0 +1,188 @@
+Are you a seasoned machine learning/data science practitioner?
+
+Does delivering impact while building scalable, robust AI applications excite you?
+
+Here at Expand AI, we are automating the data labeling process to help AI companies build high-performing ML models. A high amount of training data is required to train the ML model to perform accurately. This training data is prepared by labeling unlabeled raw data.
+
+Currently, manual labeling is what is commonly used.
+
+Manual data labeling has the following key pain points :
+
+1. The labels are prone to human errors especially if the annotators don't have the right domain knowledge.
+
+2. It takes a lot of time to manually annotate data, with annotators taking weeks or months to label data depending on the volume and the use case.
+
+3. The manual data labeling process is costly with manual data labeling companies charging per annotation.
+
+4. Data privacy can also become an issue with manual data labeling companies not being able to ensure 100% data privacy at scale.
+
+At Expand AI, we have automated the data labeling process to solve the key pain points that exist with manual data labeling :
+
+1. We provide >95% accurate labels regardless of the domain the data belongs to because our ML models can be made to be domain-specific very easily.
+
+2. Our ML models can label each data point in one second on average and as a result, we've been able to reduce the turnaround time by at least 70%.
+
+3. Because we use ML models to annotate data we can charge per example point instead of per annotation point and as a result, we're able to reduce the unnecessary spending on data labeling.
+
+4. We ensure 100% data privacy at scale.
+
+AI/ML at Expand AI :
+
+A tangible impact on customer/patron experiences is the constant cornerstones for 'models in production.' Curiosity, humility, continuous learning, excellence, a bias for action - are a few words that summarize the colleagues you will be collaborating with across engineering, product, and business teams. Some of the problem statements being solved at Expand AI with AI/ML are :
+
+1. Generating highly accurate labeling predictions for data points in a very low turnaround time - one second per data point (image/sentence) on average.
+
+2. Making it easy to make the models domain-specific so that the models can give accurate predictions for any use case that the data may belong to.
+
+Qualifications :
+
+1. Bachelors/Masters degree in Computer Science or any other STEM degree. Preferably graduated with high distinction.
+
+2. Should have extensive experience with building ML models in a company setting for commercial purposes and should have a good understanding of different ML algorithms.
+
+3. Must have specialization/strong expertise in sub-area like recommendation systems, NLP, computer vision, MLOps.
+
+4. Working know-how of dealing with large-scale data sets.
+
+5. Clear spike in either dealing with extensive data, statistics, driving impact, ML algorithms know-how, DL architectures.
+
+6. Expertise in programming and scripting.
+
+Expected Start Date: 1/3/2022
+
+Job Type: Full-time
+
+Salary: ₹80,000.00 - ₹150,000.00 per month
+
+Schedule:
+
+Fixed shift
+Experience:
+
+Machine learning: 3 years (Preferred)
+Work Remotely:
+
+Yes
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Description - Design Thinking is the DNA of Intellect Design Arena. It makes us who we are.
+
+The most awarded FinTech, with happy clients in 90+ countries, we are one of India's most profitable FinTech unicorns. With API-led micro-services and a cloud-native next-gen FinTech architecture that is powered by Artificial Intelligence and Machine Learning, we are here to create a new world order.
+
+Are you the one to co-create it with us?
+
+Welcome to Intellect.
+
+We will onboard only 100 deserving FinTech Engineers. To Apply: https://www.intellectdesign.com/fintech-engineers/
+
+Job Types: Full-time, Regular / Permanent
+
+Salary: Up to ₹3,000,000.00 per year
+
+Schedule:
+
+Day shift
+Application Question(s):
+
+How soon you can join?
+Experience:
+
+Java: 2 years (Required)
+Work Remotely:
+
+Temporarily due to COVID-19
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Good knowledge in C / C++ / Python
+Machine Learning / Deep learning
+AI / ML based Internship or Projects
+Qualification : BE /B.Tech / M.Tech / MCA
+Location : Chennai
+Salary : 6.3 LPA
+Job Type: Full-time
+
+Salary: Up to ₹630,000.00 per year
+
+Schedule:
+
+Day shift
+Work Remotely:
+
+No
+
+-----------------------------------------------------------------------------------------------------------------------------
+Required Machine Learning Engineer who is expert in Machine Learning, Tensor Flow, Keras, Neural Networks, CNN, RNN etc.
+
+Contract length: 1-2 months
+
+Application Deadline: 30/1/2022
+
+Expected Start Date: 31/1/2022
+
+Job Types: Full-time, Part-time, Contractual / Temporary, Freelance
+
+Salary: ₹40,000.00 - ₹120,000.00 per month
+
+Benefits:
+
+Work from home
+Schedule:
+
+Flexible shift
+Education:
+
+Bachelor's (Required)
+Experience:
+
+total work: 10 years (Required)
+Language:
+
+English (Required)
+Work Remotely:
+
+Temporarily due to COVID-19
+
+-----------------------------------------------------------------------------------------------------------------------------
+Academic exposure and expertise in Machine Learning (ML) and Natural Language Processing (NLP) concept and techniques.
+Understanding of Statistical and regression models
+Experience with Object Detection,Natural Language Processing (NLP), Text mining, Text processing and various NLP toolkits
+Self-driven and passionate to work on Machine Learning
+Study and innovate in Deep Learning/machine learning and its application in diverse domains
+Programming in Python and tensorFlow.
+Desirable: Experience with data science toolkits and libraries: Python: Sci-kit learn, NumPy, Pandas,Keras,TensorFlow
+Educational Qualifications
+
+UG - B.Tech/B.E. - Any Specialization
+
+PG - MS/M.Sc(Science) - Any Specialization, Computers, Statistics, M.Tech - Any Specialization, Computers, MCA - Computers
+
+Doctorate -PhD in Machine learning subject is desired
+
+Job Types: Full-time, Regular / Permanent
+
+Salary: ₹40,000.00 - ₹70,000.00 per month
+
+Benefits:
+
+Flexible schedule
+Health insurance
+Paid sick time
+Work from home
+Schedule:
+
+Day shift
+Monday to Friday
+Supplemental Pay:
+
+Performance bonus
+Yearly bonus
+Experience:
+
+Machine learning: 2 years (Required)
+
+-----------------------------------------------------------------------------------------------------------------------------
+

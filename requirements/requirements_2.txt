@@ -1,0 +1,182 @@
+1. Developing an algorithm based on Product Functionality requirements.
+
+2. Understanding the suitability of AI/ML libraries and testing the model for image/text processing, NPL-related Chatbot development.
+
+3. Coding using Python-based software.
+
+REQUIRED SKILLSET:
+
+1.Python/R
+
+2.ML/DL
+
+3.Algorithms, Image Processing, Intermediate SQL.
+
+Job Types: Full-time, Regular / Permanent
+
+Salary: ₹25,000.00 - ₹30,000.00 per month
+
+Benefits:
+
+Internet reimbursement
+Schedule:
+
+Day shift
+Morning shift
+Education:
+
+Bachelor's (Preferred)
+Experience:
+
+AI: 2 years (Preferred)
+Language:
+
+English (Preferred)
+-----------------------------------------------------------------------------------------------------------------------------
+Job description
+
+We are looking for a Machine Learning (ML) Engineer to help us create artificial intelligence products. Machine Learning Engineer responsibilities include creating machine learning models and retraining systems. To do this job successfully, you need exceptional skills in python, pytorch, tensorflow framework and edge computing and programming. If you have knowledge of data science and software engineering, we’d like to meet you. Your ultimate goal will be to shape and build efficient self-learning applications.
+
+Responsibilities
+
+Study and transform data science prototypes
+Design machine learning systems
+Research and implement appropriate ML algorithms and tools
+Develop machine learning applications according to requirements
+Select appropriate datasets and data representation methods
+Run machine learning tests and experiments
+Perform statistical analysis and fine-tuning using test results
+Train and retrain systems when necessary
+Extend existing ML libraries and frameworks, python, pytorch, tensorflow framework and edge computing
+Good understanding of ML Pipeline
+Keep abreast of developments in the field
+Skills
+
+Proven experience as a Machine Learning Engineer or similar role
+Understanding of data structures, data modeling and software architecture
+Deep knowledge of math, probability, statistics and algorithms
+Ability to write robust code in Python, jupiter notebook and R
+Familiarity with machine learning frameworks (like Keras or PyTorch) and libraries (like scikit-learn)
+Excellent communication skills
+Ability to work in a team
+Outstanding analytical and problem-solving skills
+BSc in Computer Science, Mathematics or similar field; Master’s degree is a plus
+Job Type: Full-time
+
+Salary: ₹10,000.00 - ₹20,000.00 per month
+
+Expected Start Date: 15/10/2022
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+Aufgaben
+
+Summary:
+The research engineer will work with a dynamic team of programmers and algorithm developers to realize in-cabin environment perception using computer vision algorithms for Mercedes-Benz cars.
+
+Necessary Skills:
+Proficient in at least two of Python, MATLAB.
+Industry/academic experience with machine learning and computer vision programming using libraries such as PyTorch, TensorFlow, OpenCV, Caffe
+Strong project experience involving algorithm development for computer vision applications.
+Demonstrated past algorithm development in at least one area within machine learning like neural networks, clustering, object tracking.
+Experience with object classification, gesture recognition or human pose estimation and training deep neural networks using synthetic and artificial data.
+Strong background and understanding of mathematical concepts relating to probabilistic models, conditional probability, numerical methods and linear algebra.
+Self-motivated individual with passion towards state-of-the-art computer vision technologies.
+Clear communication skills (English)
+Qualifikationen
+
+Daimler AG
+
+-----------------------------------------------------------------------------------------------------------------------------
+Knowledge in C/C++/Python
+Candidates with Machine Learning expertise will be very much preferred.
+Immediate joiners will be given first preference.
+Readiness in relocating to Chennai
+Candidates holding B.E./Master degree in the year 2021 are preferred.
+Job Types: Full-time, Regular / Permanent
+
+Salary: ₹200,000.00 - ₹630,000.00 per year
+
+Schedule:
+
+Morning shift
+Education:
+
+Bachelor's (Preferred)
+-----------------------------------------------------------------------------------------------------------------------------
+Data Scientist
+
+The data scientist will transform data and information captured within legacy systems into value-added insights and actionable business decisions using predictive analytics. Candidates must demonstrate a history of strong technical depth, a broad base of modelling and information technology skills and a willingness to promote a collaborative, team-based approach to problem solving.
+
+Responsibilities
+
+· Identify opportunities where predictive analytics can enhance and accelerate decision-making, create, and execute the plan using predictive analytics to answer the business question.
+
+· Experience in working with different data types and source systems as well as interfacing databases to enable extracting relevant data to address business questions.
+
+· Experience in statistics/machine learning techniques to be able to use the right tool for the right question.
+
+· Ability to communicate the results of analysis in an effective manner to stakeholders to drive action.
+
+· Apply the right analytics tool/methodology to inform and influence decisions.
+
+· Build decision support tools, templates, dashboards for high frequency decisions that can leverage analytics.
+
+· Develop tools/algorithms to mine patterns in existing data to create a recommendation on future questions to consider.
+
+· Integrate predictive analytics capabilities with knowledge management.
+
+Requirements
+
+· 2+ years of experience as a Data scientist.
+
+· Experience as data scientist in insurance industry is preferrable.
+
+· Experience in working with varied data types (structured and unstructured) and databases
+
+· Experience in programming scripting languages including Python and R with exposure to other platforms as a plus.
+
+· Experience in using existing statistics/machine learning tools and ability to implement custom algorithms as needed.
+
+· Experience with visualization tools such as Powe BI
+
+· Familiarity with big data technologies, AWS preferred.
+
+Benefits:
+
+· 5 days working culture.
+
+· Benefits of permanent remote work.
+
+· Healthy and rewarding working environment.
+
+· Creative leadership culture focused on development.
+
+· Opportunities for working on new technologies.
+
+Company website : bluehexsoftware.com
+
+Job Types: Full-time, Regular / Permanent
+
+Salary: ₹450,000.00 - ₹650,000.00 per year
+
+Benefits:
+
+Health insurance
+Paid sick time
+Paid time off
+Provident Fund
+Work from home
+Schedule:
+
+Day shift
+Experience:
+
+Data Science: 2 years (Preferred)
+Work Remotely:
+
+Yes
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
