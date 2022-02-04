@@ -12,7 +12,17 @@
   </head>
   <body>
 
-
+    <div class="card w-95">
+      <div class="card-body">
+      <form action="/search" method="post">
+        <!-- <h5 class="card-title">Card title</h5> -->
+        <!-- <label for="exampleFormControlInput1" class="form-label">Email address</label> -->
+        <input type="text" class="form-control" id="search_query" name="search_query" placeholder="Enter search query">
+        <!-- <a href="#" class="btn btn-primary">Button</a> -->
+        <button class="btn btn-warning" type="submit">Search</button>
+      </form>
+      </div>
+    </div>
 
     
     {% for result in results %}

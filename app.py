@@ -14,7 +14,13 @@ es = Elasticsearch()
 
 app = Flask(__name__)
 
+
+
+
 def indexing():
+
+    # delete(index="reestr",doc_type="some_type",id=1919)
+
 
     print("-- INDEXING -- ")
     with open("all_requirements.json", "r+") as json_file:
@@ -55,9 +61,12 @@ def indexing():
         count = 0
 
         for requirement in json_data["data"]:
-            es.index(index="requirements", id=count, body=requirement)
+            es.index(index="requirements_3", id=count, body=requirement)
 
             count+=1
+
+
+
 
 
 def find(query_word):
@@ -82,7 +91,7 @@ def find(query_word):
                 }
             }
 
-    res = es.search(index="requirements", body=body)
+    res = es.search(index="requirements_3", body=body)
 
     pprint.pprint(res)
 
@@ -96,13 +105,32 @@ def find(query_word):
 
 @app.route('/', methods= ["GET"])
 def home():
-    res_list = find("python")
+
+
+    # res_list = find(word)
+
+    return render_template("index.html")
+
+
+
+@app.route('/search', methods= ["POST"])
+def search():
+
+    word = request.form['search_query']
+
+    res_list = find(word)
 
     return render_template("index.html", results = res_list)
 
     
+@app.route('/index', methods= ["GET"])
+def indexing_api():
 
-indexing()
+    indexing()
+
+    return redirect("/")
+
+
 
 
 
